@@ -1,0 +1,25 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.AboutBox1.resources

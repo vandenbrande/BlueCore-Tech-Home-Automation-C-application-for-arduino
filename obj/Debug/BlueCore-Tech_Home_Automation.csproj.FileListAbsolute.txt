@@ -1,0 +1,13 @@
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\BlueCore-Tech_Home_Automation.exe.manifest
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\BlueCore-Tech_Home_Automation.application
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\BlueCore-Tech_Home_Automation.exe
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\bin\Debug\BlueCore-Tech_Home_Automation.pdb
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.csprojResolveAssemblyReference.cache
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.AboutBox1.resources
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.csproj.GenerateResource.Cache
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.exe.manifest
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.application
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.exe
+D:\ARDUINO downloads\Arduino led control C++ program\ComputerToArduino\ComputerToArduino\obj\Debug\BlueCore-Tech_Home_Automation.pdb
