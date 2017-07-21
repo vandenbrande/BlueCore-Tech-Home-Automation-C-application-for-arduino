@@ -307,5 +307,5 @@ void serialEvent() {
     if (inChar == '\n') {
       stringComplete = true;
     }
-  }
+  } 
 }
